@@ -7,9 +7,10 @@
 
 ---
 
-## 🌐 Social
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tuo-profilo)  
-[![Email](https://img.shields.io/badge/Email-Contattami-red?logo=gmail&logoColor=white)](mailto:tuo@email.com)
+## 🌐 Socials  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matteo-cipolla-aa8a83323) 
+[![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mati_teo@live.it)
+
 
 ---
 
