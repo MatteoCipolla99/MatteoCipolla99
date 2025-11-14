@@ -18,11 +18,11 @@
 ## 🧰 Tech Stack
 
 ### 👨‍💻 Linguaggi & Framework  
-[![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB) ](https://img.shields.io/badge/react-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?logo=tailwindcss&logoColor=06B6D4)
-![JS](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E)
-![HTML5](https://img.shields.io/badge/HTML5-000000?logo=html5&logoColor=E34F26)
-![CSS3](https://img.shields.io/badge/CSS3-000000?logo=css3&logoColor=1572B6)
+![React](https://img.shields.io/badge/react-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
+
 
 ---
 
