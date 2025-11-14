@@ -48,6 +48,12 @@
 | :---: | :---: |
 | <img src="./smartbool.png" width="500" /> <br> Sito per la _**ricerca di smartphone**_, sviluppato con _**ReactJs**_ e _**Tailwind CSS**_. | <img src="./Home.png" width="500" /> <br> Sito per la _**vendita di prodotti**_, sviluppato con _**ReactJs**_ e _**Tailwind CSS**_. |
 
+| 🎬 **[Boolflix - ReactJs](https://github.com/MatteoCipolla99/react-boolflix)** |
+| :---: |
+| <img src="./Boolflix.png" width="500" /> <br> Sito _**clone di Netflix**_, sviluppato con **ReactJs** e **CSS**. |
+
+
+---
 
 
 
