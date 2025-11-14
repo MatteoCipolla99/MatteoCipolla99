@@ -16,7 +16,9 @@
 ---
 
 ## 🧰 Tech Stack
-![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB) 
+
+### 👨‍💻 Linguaggi & Framework  
+[![React](https://img.shields.io/badge/React-000000?logo=react&logoColor=61DAFB) ](https://img.shields.io/badge/react-%230077B5.svg?style=for-the-badge&logo=react&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-000000?logo=tailwindcss&logoColor=06B6D4)
 ![JS](https://img.shields.io/badge/JavaScript-000000?logo=javascript&logoColor=F7DF1E)
 ![HTML5](https://img.shields.io/badge/HTML5-000000?logo=html5&logoColor=E34F26)
