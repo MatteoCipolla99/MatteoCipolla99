@@ -2,8 +2,11 @@
 # 👋 Ciao, sono Matteo
 
 💻 Junior Frontend Developer con passione per UI moderne e accessibili
+
 🎨 Lavoro principalmente con React e Tailwind CSS
+
 🚀 Contribuisco a progetti open source
+
 💡 Mi piace trasformare design in interfacce interattive e imparare costruendo
 
 ---
