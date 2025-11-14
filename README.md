@@ -26,14 +26,34 @@
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 
+### 🧰 Altri linguaggi & tool
+![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+
+### 🗄️ Database & backend tools  
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+
+### ⚙️ Dev Tools 
+![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white)
 
 ---
 
-## 🔎 Cosa faccio
-- Trasformo design in UI interattive con React + Tailwind.  
-- Focus su **accessibilità**, performance e UX.  
-- Amo creare componenti riusabili e documentare il codice.
+## 📊 Progetti in Evidenza
 
----
+| 📱 **[SmartBool - ReactJs](https://github.com/MatteoCipolla99/progetto-finale-spec-frontend-frontend)** | 🎮 **[BoolShop - ReactJs](https://github.com/domespa/fe-boolshop)** |
+| :---: | :---: |
+| <img src="./smartbool.png" /> <br> Sito per la _**ricerca di smartphone**_, sviluppato con _**ReactJs**_ e _**Tailwind CSS**_. | <img src="./boolshop.png" /> <br> Sito per la _**vendita di prodotti**_, sviluppato con _**ReactJs**_ e _**Tailwind CSS**_. |
+
+<br> | <img src="./vynyleshop.png" /> <br> Sito per la _**vendita di vinili**_, sviluppato con _**ReactJs**_ e _**Bootstrap**_. <br> <a href="https://github.com/SimoneChiodo/backend-vynyleshop-spring.git">**Link** al **Backend** sviluppato con **Spring**</a> |
+
+| 🗺 **[Travel Journal App - Spring](https://github.com/SimoneChiodo/travel-journal-app.git)** | 💣 **[Campo Minato - JavaScript](https://github.com/SimoneChiodo/campo-minato.git)** |
+| :---: | :---: |
+| <img src="./travel_journal_app.png" /> <br> Sito per _**raccogliere i momenti più significativi delle proprie vacanze**_, sviluppato con _**Spring**_ e _**Bootstrap**_. | <img src="./campo_minato.png" /> <br> Sito che _**simula il celebre gioco Campo Minato**_, sviluppato con _**JavaScript**_. |
+
+
 
 
