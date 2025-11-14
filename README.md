@@ -1,14 +1,15 @@
 # MatteoCipolla99
 # 👋 Ciao, sono Matteo
 
-**💻 Junior Frontend Developer** | Javascript | React | Tailwind  
-🎨 Amo costruire interfacce moderne, accessibili e responsive  
-🚀 Contribuisco ad open source e imparo costruendo progetti reali
+💻 Junior Frontend Developer con passione per UI moderne e accessibili
+🎨 Lavoro principalmente con React e Tailwind CSS
+🚀 Contribuisco a progetti open source
+💡 Mi piace trasformare design in interfacce interattive e imparare costruendo
 
 ---
 
 ## 🌐 Socials  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/matteo-cipolla-aa8a83323) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matteo-cipolla-aa8a83323/) 
 [![email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mati_teo@live.it)
 
 
