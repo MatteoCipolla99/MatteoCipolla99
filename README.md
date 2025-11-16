@@ -55,6 +55,11 @@
 
 ---
 
+## 📊 GitHub Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatteoCipolla99&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)  
+![Stats](https://github-readme-stats.vercel.app/api?username=MatteoCipolla99&theme=react&hide_border=true&include_all_commits=true&count_private=true)  
+![Streak](https://nirzak-streak-stats.vercel.app/?user=MatteoCipolla99&theme=react&hide_border=true)
 
 
 
